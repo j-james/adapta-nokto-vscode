@@ -3,6 +3,15 @@
     "displayName": "AdaptaNokto",
     "description": "AdaptaNokto is a color theme for Visual Studio Code based off of [adapta-gtk-theme](https://github.com/adapta-project/adapta-gtk-theme)'s Nokto variant",
     "version": "0.0.1",
+    "publisher": "j-james",
+    "bugs": {
+        "url": "https://github.com/j-james/adapta-nokto-vscode/issues"
+    },
+    "homepage": "https://github.com/j-james/adapta-nokto-vscode",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/j-james/adapta-nokto-vscode"
+    },
     "engines": {
         "vscode": "^1.41.0"
     },
