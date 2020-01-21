@@ -4,6 +4,10 @@ All notable changes to the "adapta-nokto-vscode" extension will be documented in
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## 0.0.1
 
-- Initial release
+Initial commit
+
+## 0.0.2
+
+Add an icon and fix broken hyperlink in description
