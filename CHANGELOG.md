@@ -11,3 +11,7 @@ Initial commit
 ## 0.0.2
 
 Add an icon and fix broken hyperlink in description
+
+## 0.0.3
+
+Improve icon quality
